@@ -1,0 +1,2 @@
+class CasereportsController < ApplicationController
+end
