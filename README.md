@@ -1,4 +1,4 @@
-# Together, self-reporting contact tracing
+# Together - self-reporting contact tracing
 
 A mobile app to allow the general public to self-report COVID-19 cases. Data analysis from this app and government testing results can be combined and support an efficient approach for diagnostic testing allocation and targeted contact tracing. 
 
