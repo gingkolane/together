@@ -1,6 +1,9 @@
-# Together - Contact Tracing by Self-Reporting
+# Together - Contact Tracing through Self-Reporting
 
-A mobile app to allow the general public to self-report COVID-19 cases. Data analysis from this app and official testing results can be combined and support targeted testing allocation and more efficient contact tracing.
+App Summary: 
+Self-reporting, integrated testing, data analysis on home treatment patients. 
+
+80% infected are staying home and not qualified for testing right now. This mobile app allows the general public to self-report COVID-19 cases. Data analysis from this app and official testing results can be combined and support targeted testing allocation and more efficient contact tracing.
 
 Functions:
 - A user can create case reports for self and others.
@@ -11,5 +14,4 @@ Functions:
 Future goals:
 - Acquire verified government testing results, populate a map showing density of COVID infection at individual level (currently maps are only available by state, and in some case by city)
 - Data analysis from self-reporting and verified testing data can be analysed, with the help of AI, to predict and forestall infection hotspots.
-
 
